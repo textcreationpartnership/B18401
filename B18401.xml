@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advertisement from Henry Byshop Esquire, his Majesties Post-master General.</title>
+            <author>Great Britain. Post Office.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18401</idno><idno type="EEBO-CITATION">99885484</idno>
+  <idno type="VID">186476</idno>
+  <idno type="EEBO-PROQUEST">2248536000</idno>
+  
+            <idno type="STC">Wing B6410</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.h.4[19]</idno>
+            <idno type="STC">ESTC R223970</idno>
+            <idno type="PROQUEST">ocm99885484</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885484e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18401)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186476)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:1[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advertisement from Henry Byshop Esquire, his Majesties Post-master General.</title>
+                  <author>Great Britain. Post Office.</author>
+                  <author>Byshop, Henry.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Henry Byshop.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Royal arms (Steele 67) at head.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Postal service --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="announcement">
+            <pb facs="tcp:186476:1"/>
+            <head>An Advertisement from <hi>Henry Byshop</hi> Esquire, his Majesties Post-master General.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL Gentlemen and others concerned in holding correspondence into several parts of <hi>England</hi> and <hi>Wales,</hi> are desired to take notice, That since the Post-Office hath been granted to him from his Majesty, for the more hope<g ref="char:EOLhyphen"/>ful raising the great encrease of Rent advanced unto his Majesty for the said Office, and for the accommodation and ease of many of his good subjects, who have hitherto wanted the benefit of Postage, that other parts of <hi>England</hi> and <hi>Wales</hi> have enjoyed, and sending to and fro with such extraordinary speed and expedition, at as cheap or cheaper rates, then they can send by common Carryers. The said <hi>Henry Byshop</hi> hath at his great ex<g ref="char:EOLhyphen"/>pence, settled many new Posts in several Roades and by-Roades, where heretofore no Posts have ever been.</p>
+            <p>That is to say, Unto the City of <hi>Canterbury,</hi> and the Towns of <hi>Dover, Sandwich, Deal,</hi> and all parts of that <hi>Kentish</hi>-road from <hi>London,</hi> and also into the <hi>Downs</hi> unto his Majesties Fleet when it Anchors there, and all Merchants Ships there, every day in the week both going and coming, and into all other parts of the County of <hi>Kent,</hi> three times in the week, upon the usual Post-dayes, with answerable returns.</p>
+            <p>And into all parts of the Counties of <hi>Cumberland</hi> and <hi>Westmerland,</hi> by the waye of <hi>Brough,</hi> twice in every week, <hi>viz.</hi> every <hi>Tuesday</hi> and every <hi>Saturday</hi> night from <hi>London,</hi> with returns answerable.</p>
+            <p>And into that part of North-<hi>Wales</hi> beyond <hi>Shrewsbury,</hi> unto <hi>Mohuntly</hi> and <hi>Aberdoney,</hi> and parts adjacent, twice in every week, <hi>viz.</hi> every <hi>Tuesday</hi> and <hi>Saturday</hi> night from <hi>London,</hi> with the like returns.</p>
+            <p>And into several parts of the Counties of <hi>Berks</hi> and <hi>Oxon, viz. Abingdon, Faringdon, Lechlott, Wantage, Burford</hi> and the parts adjacent, thrice in every week, upon the usual Post-dayes, with the like returns.</p>
+            <p>And from the Port of <hi>Plimouth,</hi> into the County of <hi>Cornwal,</hi> unto <hi>Foye, Bodnam, Truro, Pensanze,</hi> and <hi>Marketjewe,</hi> al. <hi>Marhasion</hi> &amp; parts adjacent, twice in every week, with the like returns to <hi>Plimouth,</hi> and so for the City of <hi>London</hi> upon the usual Post-dayes.</p>
+            <p>And from the City of <hi>Bristol</hi> unto South-<hi>Wales,</hi> by <hi>Monmouth</hi> and all other the chief Towns upon that road, unto <hi>Haver<g ref="char:EOLhyphen"/>ford West,</hi> and <hi>Milford-haven,</hi> twice in every week, with the like returns.</p>
+            <p>And he hath likewise now finished a settlement of Postage into several parts of <hi>Essex, Suffolk</hi> and <hi>Norfolk,</hi> never heretofore settled, which is to begin from the City of <hi>London</hi> upon <hi>Thursday</hi> the three and twentieth day of this instant <hi>May, viz.</hi> unto the Towns of <hi>Malden, Braintree, B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cking, Coxeshall,</hi> and parts adjacent in the County of <hi>Essex,</hi> thrice in every week, upon the usual Post-dayes from <hi>London,</hi> with the like returns.</p>
+            <p>Unto <hi>Nayland, Sudbury, Melford, Glensford, Kandish, Clare, Levenham, Stoke, Boxford, Etherstone, Waldingfield,</hi> and parts ad<g ref="char:EOLhyphen"/>jacent in the County of <hi>Suffolk,</hi> by the way of <hi>Colechester,</hi> unto Saint <hi>Edmonds-bury,</hi> thrice in every week, upon the usual Post-day<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from <hi>London,</hi> with answerable returns: As also unto <hi>Hadleigh</hi> and <hi>Bilson</hi> in the said County.</p>
+            <p>Unto <hi>Needham, Stow, Debenham, Twaite, Mendlesham, Wulpit, Stoneham,</hi> and parts adjacent in the said County of <hi>Suffolk,</hi> by the way of <hi>Ipswich,</hi> twice in every week, <hi>viz.</hi> every <hi>Tuesday</hi> and <hi>Saturday</hi> night from <hi>London,</hi> with answerable returns.</p>
+            <p>Unto <hi>Budsdell, Disse, Aye, Scoole, Yaxley, Sturston,</hi> and parts adjacent in the Counties of <hi>Suffolk</hi> and <hi>Norfolk,</hi> twice every week, every <hi>Tuesday</hi> and <hi>Saturday</hi> night from <hi>London,</hi> with answerable returns.</p>
+            <p>Unto <hi>Swafham, Fakenham, Walsingham, Holt, Wells, Burnham,</hi> and parts adjacent in the county of <hi>Norfolk,</hi> by the way of Saint <hi>Edmonds-bury</hi> and <hi>Thetford,</hi> twice in every week, <hi>viz.</hi> every <hi>Tuesday</hi> and <hi>Thursday</hi> night from <hi>London,</hi> with answerable returns.</p>
+            <p>And unto the City of <hi>Elye,</hi> and most parts of that Island of <hi>Elye,</hi> by the way of <hi>Cambridge,</hi> twice in every week, <hi>viz.</hi> every <hi>Tuesday</hi> and <hi>Thursday</hi> night from <hi>London,</hi> with answerable returns.</p>
+            <p>And he hath provided sufficient persons, and very near compleated a settlement of Post-roads to <hi>Rye</hi> in <hi>Sussex,</hi> by the way of <hi>Tunbridge</hi> in the County of <hi>Kent,</hi> and unto <hi>Shoram</hi> in the said County of <hi>Sussex,</hi> which together with the Post-road already settled unto the City of <hi>Chichester</hi> and those parts of the County of <hi>Sussex,</hi> striking out from <hi>Petersfield</hi> in <hi>Portsmouth</hi>-road, will supply all parts of the County of <hi>Sussex</hi> with the conveniency of Postage, thrice in every week, upon the usual Post-dayes.</p>
+            <p>And also unto the Towns of <hi>Darby, Leicester, Harborough,</hi> and parts adjacent, by the way of <hi>Northampton,</hi> thrice in every week, upon the usual Post-dayes, and the same to begin God willing, at or before the fourteenth day of <hi>June</hi> next ensuing.</p>
+            <p>And the said <hi>Henry Byshop</hi> hath taken great care in the choice of faithful and diligent persons in all Post-roads, and in the City of <hi>London,</hi> for the speedy and careful delivery of Letters, and hath taken good security from them by bonds, neither to commit nor suffer any neglects, frauds or exactions, concerning the Letters and Pacquets to be sent or delivered by them, and he shall take it as a friendship from any person, to inform him if any of his said Officers do act to the contrary.</p>
+            <closer>
+               <signed>Henry Byshop.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
